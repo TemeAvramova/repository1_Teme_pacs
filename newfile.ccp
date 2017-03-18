@@ -1,2 +1,3 @@
 Non ho capito che problemi ha...
-ora lo modifico per vedere se capisco qualcosa! 
+ora lo modifico dal ramo sperimentale 
+
